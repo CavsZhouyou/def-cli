@@ -1,7 +1,7 @@
 {
-  "name": "lz-base-cli",
-  "version": "1.0.3",
-  "description": "个人脚手架",
+  "name": "def-cli",
+  "version": "1.0.0",
+  "description": "def 脚手架",
   "main": "index.js",
   "bin": {
     "def": "./bin/def"
@@ -26,12 +26,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ZoeLeee/my-cli.git"
+    "url": "git+https://github.com/CavsZhouyou/def-cli.git"
   },
-  "author": "",
+  "author": "zhouyou",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ZoeLeee/my-cli/issues"
+    "url": "https://github.com/CavsZhouyou/def-cli/issues"
   },
-  "homepage": "https://github.com/ZoeLeee/my-cli#readme"
+  "homepage": "https://github.com/CavsZhouyou/def-cli#readme"
 }
