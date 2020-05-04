@@ -1,6 +1,6 @@
 const Metalsmith = require('metalsmith');
 const Handlebars = require('handlebars');
-const remove = require('../lib/remove');
+const remove = require('./remove');
 const fs = require('fs');
 const path = require('path');
 
