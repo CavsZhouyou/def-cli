@@ -1,0 +1,37 @@
+{
+  "name": "lz-base-cli",
+  "version": "1.0.3",
+  "description": "个人脚手架",
+  "main": "index.js",
+  "bin": {
+    "def": "./bin/def"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^3.0.1",
+    "download-git-repo": "^2.0.0",
+    "handlebars": "^4.1.2",
+    "inquirer": "^7.0.0",
+    "latest-version": "^5.1.0",
+    "log-symbols": "^3.0.0",
+    "metalsmith": "^2.3.0",
+    "ora": "^3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZoeLeee/my-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZoeLeee/my-cli/issues"
+  },
+  "homepage": "https://github.com/ZoeLeee/my-cli#readme"
+}
