@@ -1,2 +1,3 @@
-# my-cli
-个人脚手架
+# def-cli
+
+def scaffold
